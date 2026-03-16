@@ -21,6 +21,6 @@ Insights:
 Sales performance by shipping mode,
 Monthly quantity trends,
 Regional order distribution,
-Top cities by sales
+Top cities by sales,
 Category-wise analysis
 Customer segment analysis
