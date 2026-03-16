@@ -17,10 +17,5 @@ Total Orders,
 Total Quantity Sold,
 Average Sales per Order
 
-Insights:
-Sales performance by shipping mode,
-Monthly quantity trends,
-Regional order distribution,
-Top cities by sales,
-Category-wise analysis
+Insights:Sales performance by shipping mode,Monthly quantity trends,Regional order distribution,Top cities by sales,Category-wise analysis,
 Customer segment analysis
