@@ -4,8 +4,8 @@ Dataset:
 Superstore Sales Dataset
 
 Tools Used:
-Microsoft Excel
-Pivot Tables
+Microsoft Excel,
+Pivot Tables,
 Data Visualization
 
 Project Overview:
